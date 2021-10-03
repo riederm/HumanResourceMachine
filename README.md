@@ -1,8 +1,11 @@
 # HumanResourceMachine
 lvl descriptions of Human Resource Machine levels.
 
-get it here or on steam:
-https://tomorrowcorporation.com/humanresourcemachine#getitnow
+Program little office workers to solve puzzles in pseudo-machine-language.
+
+buy it here:
+- https://store.steampowered.com/app/375820/Human_Resource_Machine/
+- https://tomorrowcorporation.com/humanresourcemachine#getitnow
 
 ## level 4 
 ![lvl4](pics/lvl_04_scrambler_handler.png)
