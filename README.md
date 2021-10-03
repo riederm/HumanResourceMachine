@@ -1,5 +1,8 @@
 # HumanResourceMachine
-lvl descriptions of hrm levels
+lvl descriptions of Human Resource Machine levels.
+
+get it here or on steam:
+https://tomorrowcorporation.com/humanresourcemachine#getitnow
 
 ## level 4 
 ![lvl4](pics/lvl_04_scrambler_handler.png)
